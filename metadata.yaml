@@ -1,0 +1,37 @@
+_repo: Lobo-Rag-and-VixenBeing-The-Personal-Histories-Of-Lobo-Redruff-Raggylug--amp--Vixen_14226
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thomson, Ernest
+    - Thompson-Seton, Ernest
+    - Seton-Thompson, Ernest
+    - Seton, Wolf
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description:
+- Illustrated by the author.
+- 'Selections from "Wild Animals I Have Known," #3031.'
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+title: 'Lobo, Rag and Vixen
+
+  Being The Personal Histories Of Lobo, Redruff, Raggylug & Vixen'
+url: http://www.gutenberg.org/ebooks/14226
